@@ -16,7 +16,7 @@ El proyecto esta desarrollado en arquitectura de microservicios implementa `Spri
 | Modulo                                         | Contenido                                                                                                                                                                               |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Application.java**				 | Clase principal de arranque y escaneo del proyecto
-| **SwaggerConfig.java**				 | Clase de configuracion para la ui y documentacion de servicios con de swagger http://localhost:8080/ms-pago-servicios/swagger-ui/index.html
+| **SwaggerConfig.java**				 | Clase de configuracion para la ui y documentacion de servicios con de swagger http://localhost:8080/ms-facturacion/swagger-ui/index.html
 | **pom.xml**                                    | Dependencias, Compilacion y empaquetado                                                                                                                                                                           
 **TransaccionExceptionHandler.java**                          | Clase manejadora de excepciones
 
